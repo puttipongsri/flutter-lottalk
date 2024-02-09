@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "username": "stamp12a",
+      "password": "0822940494a",
+      "address": "tamjanjan@gmail.com",
+      "phoneNumber": "0822940494",
+      "id": 1
+    },
+    {
+      "username": "1",
+      "password": "1",
+      "address": "tamjanjan@ku.th",
+      "phoneNumber": "0822940494",
+      "id": 3
+    },
+    {
+      "username": "stamp12aa",
+      "password": "082294121",
+      "address": "tamjanjan@ku.th",
+      "phoneNumber": "111111",
+      "id": 2
+    },
+    {
+      "username": "awda",
+      "password": "awdawd",
+      "address": "awdawd",
+      "phoneNumber": "awdawd",
+      "id": 4
+    },
+    {
+      "username": "bank",
+      "password": "123",
+      "address": "puttipong.sri@ku.th",
+      "phoneNumber": "0956581633",
+      "id": 4
+    },
+    {
+      "username": "Stamplnwza007",
+      "password": "1234",
+      "address": "awdawdaaaa",
+      "phoneNumber": "wdawd",
+      "id": 5
+    },
+    {
+      "username": "wdadawd",
+      "password": "1231312awdawd",
+      "address": "awdawd@gmai.com",
+      "phoneNumber": "0822940494",
+      "id": 6
+    }
+  ],
+  "post": [
+    {
+      "username": "1",
+      "textpost": "1111",
+      "img_path": "",
+      "id": 1,
+      "likedUsers": [
+        "1"
+      ]
+    },
+    {
+      "username": "1",
+      "textpost": "22222",
+      "img_path": "",
+      "likedUsers": [],
+      "id": 2
+    }
+  ],
+  "notifications": [
+    {
+      "post_id": 1,
+      "username": "1",
+      "des": "1 Like Your Post",
+      "type": "like",
+      "actionUsername": "1",
+      "time": "11:09",
+      "id": 1
+    }
+  ],
+  "comment": []
+}
